@@ -1,0 +1,16 @@
+{
+    "name": "pond_automator",
+    "version": "1.0.0",
+    "description": "Pond Automation Server",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "author": "Nachiket D. Kamod",
+    "license": "ISC",
+    "dependencies": {
+        "firebase-admin": "^10.0.2",
+        "nodemon": "^2.0.15",
+        "onoff": "^6.0.3"
+    }
+}
