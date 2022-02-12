@@ -1,3 +1,10 @@
+/*
+
+    Configration file for pm2 service
+
+*/
+
+
 module.exports = {
     apps: [
         {
